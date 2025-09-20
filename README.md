@@ -20,13 +20,13 @@ narração em voz e efeitos visuais que celebram cada passo da jornada.
 
 <div align="center">
   <h4>Layout da home e tela interação do APP:</h4>
-  <img width="500" src="https://github.com/JotaPQueiroz/KODA/blob/main/wireframe-app.png"><br>
+  <img width="500" src="htt"><br>
    Fonte: KODA
 </div>
 
 <div align="center">
   <h4>Pelúcia e tela do quiz:</h4>
-  <img width="500" src="https://github.com/marisouza31/APP-KODA/blob/main/pelucia-quiz.png"><br>
+  <img width="500" src="https://github.com/marisouza31/APP-KODA/blob/main/wireframes/pelucia-quiz.png"><br>
    Fonte: KODA
 </div>
 
