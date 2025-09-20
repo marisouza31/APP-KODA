@@ -20,7 +20,7 @@ narração em voz e efeitos visuais que celebram cada passo da jornada.
 
 <div align="center">
   <h4>Layout da home e tela interação do APP:</h4>
-  <img width="500" src="htt"><br>
+  <img width="500" src="https://github.com/marisouza31/APP-KODA/blob/main/wireframes/cadastro-login.png"><br>
    Fonte: KODA
 </div>
 
